@@ -14,7 +14,7 @@ profile:
     <p>255 Beacon Street</p>
     <p>Chestnut Hill, MA 02467</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
