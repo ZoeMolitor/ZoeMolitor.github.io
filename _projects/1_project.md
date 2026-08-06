@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Geophysical, Petrologic, and Structural Properties of Granulite Facies Metamorphic Rocks in the New England Applications
+description: Granulite facies metamorphic rocks, including ultra-high temperature and high pressure granulite facies units, are observed throughout the New England Appalachians. Studies broadly associate these rocks with overthickened orogenic crust and high crustal heat flow, but the origin of heat, nature of exhumation, and relationship to large-scale tectonic process remain elusive.
+img: assets/img/pntgranulite.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.
