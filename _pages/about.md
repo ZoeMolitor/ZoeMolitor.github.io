@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoctoral Fellow - Boston College - Dept. of Earth and Environmental Sciences
+# <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc. -- this is an old subtitle line, saving in case i need to reference for href link
 
 profile:
   align: right
