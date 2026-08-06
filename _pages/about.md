@@ -38,8 +38,8 @@ I began my studies as a computer science student at Purdue University; but alas,
 
 Outside of research, well, I still love to look at rocks. No one who comes on vacation with me is safe from my geologic tidbits and analysis. I love to hike, camp, and backpack, particularly around the northeast USA. I am typically accompanied by my canine companion, Reddy, an exhuberant Australian Cattle Dog, who one day will be able to sniff out garnets for me. I'm also engaged within my local community as much as possible, hosting K12 students at workshops or visiting classrooms to describe my research and the flexibility of a career in Earth science. At home I occasionally play video games, love to cook (but not clean...), and of course play with Reddy.
 
-You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+![]({{ "/assets/img/reddysilly.jpg" | relative_url }}){:class="img-fluid rounded z-depth-1"}
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+#Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+#Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
