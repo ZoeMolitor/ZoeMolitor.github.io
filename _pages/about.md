@@ -11,7 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Devlin Hall Room 213</p>
-    <p>255 Beacon Street, Chestnut Hill, MA</p>
+    <p>255 Beacon Street</p>
     <p>Chestnut Hill, MA 02467</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -26,6 +26,11 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+# Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
 ---
 Hi, I'm Dr. Zoe Molitor, a structural petrologist and Postdoctoral Fellow at Boston College. I am currently part of Juliet Ryan-Davis' research group and actively studying the petrogenesis of Appalachian leucogranites (see her website [here](https://www.julietryandavis.com/)).
 
@@ -39,7 +44,3 @@ I began my studies as a computer science student at Purdue University; but alas,
 Outside of research, well, I still love to look at rocks. No one who comes on vacation with me is safe from my geologic tidbits and analysis. I love to hike, camp, and backpack, particularly around the northeast USA. I am typically accompanied by my canine companion, Reddy, an exhuberant Australian Cattle Dog, who one day will be able to sniff out garnets for me. I'm also engaged within my local community as much as possible, hosting K12 students at workshops or visiting classrooms to describe my research and the flexibility of a career in Earth science. At home I occasionally play video games, love to cook (but not clean...), and of course play with Reddy.
 
 ![]({{ "/assets/img/reddysilly.jpg" | relative_url }}){:class="img-fluid rounded z-depth-1"}
-
-#Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-#Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
