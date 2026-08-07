@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.4/schema.json
 cv:
-  name: "Dr. Zoe Molitor (she/they)"
+  name: "Dr. Zoe Molitor (she or they)"
   location: "57 Broadlawn Park Unit 11B, Chestnut Hill, MA 02467"
   email: zoe.molitor@bc.edu
   phone: "+14196703587"
@@ -252,6 +252,3 @@ cv:
         details: "ArcGIS, Adobe Illustrator, Inkscape, Perple_X, TheriakDomino, Microsoft Office Suite"
       - label: "Laboratory Analysis"
         details: "SEM/EPMA (Electron Probe Microanalyzer), SEM/EBSD (Electron Backscatter Diffraction), Heavy Mineral Separation, LA-ICP-MS"
-
-design:
-  theme: classic
