@@ -1,189 +1,215 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Zoe Molitor
+  label: Structural Petrologist
+  email: zoe.molitor@bc.edu
+  location: Chestnut Hill, MA
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+  summary: Postdoctoral Fellow working on Appalachian leucogranites at Boston College with Professor Juliet Ryan-Davis.
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
+    street: 57 Broadlawn Park, Apt 11B
+    city: Chestnut Hill
+    region: Massachusetts
+    postalCode: MA 02467
     countryCode: US
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: Massachusetts Institute of Technology
+        location: Boston, Massachusetts
+        url: 
+        area: Geology
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 2018
+        end_date: 2024
         score: ""
-        courses: "Theory of Relativity"
+        courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
+          - Structure and Behavior of Plate Boundary Regions Through the Wilson Cycle
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Purdue University
+        location: West Lafayette, Indiana
+        area: Geology and Geophysics
+        studyType: Bachelor of Science
+        start_date: 2015
+        end_date: 2018
         highlights:
-          - Description 1.
-          - Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Boston College
+        position: Postdoctoral Researcher
+        location: Chestnut Hill, MA
+        start_date: 2026
+        end_date: 
+        summary: Working on Appalachian leucogranite chemistry and petrogenesis with implications for tectonic models of orogenic development and collapse.
         highlights:
-          - Relativity
-          - Description 2.
+          - Igneous Petrology
+          - Geochemistry
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Yale University
+        position: NSF EAR Postdoctoral Fellow
+        location: New Haven, CT
+        start_date: 2024
+        end_date: 2026
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Metamorphic Petrology
+          - Structural Geology
 
     Skills:
-      - name: Physics
+      - name: Geology
         level: Master
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Structural Geology/Structural Analysis, Igneous and Metamorphic Petrology/Petrologic Modelling, Geochronology, EPMA, EBSD"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+    Mentoring:
+      - name: Brynn Graham, Visiting Undergraduate Researcher from Mt. Holyoke
+        summary: "While at Yale, I supervised Brynn on field work, thin section petrography, and petrologic modelling work."
 
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
+    Outreach:
+      - name: Adjunct Professor-Structural Geology, EESC 3385
+        date: Fall 2026
+        issuer: Boston College
         icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: Graduate TA-Geophysics, 12.002
+        date: 2021-22
+        issuer: MIT
         icon: fa-solid fa-tag
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: Undergraduate Teaching Assistant-Introduction to Geography, EAPS 12000
+        date: 2017
+        issuer: Purdue University
         icon: fa-solid fa-envelope
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - name: Lead Organizer of "Journey to the Center of the Earth" Workshop, Pathways to Science
+        date: Summer 2026
+        issuer: Yale University
+        icon: fa-solid fa-envelope
+
+      - name: Co-Organizer of "Journey to the Center of the Earth" Workshop, Pathways to Science
+        date: Summer 2025
+        issuer: Yale University
+        icon: fa-solid fa-envelope
+
+      - name: Group Leader-Chemistry Rotation, West Campus Science Festival, Pathways to Science
+        date: Fall 2024
+        issuer: Yale University
+        icon: fa-solid fa-envelope
+
+      - name: Administrative Member of LINK12, K12 Outreach Program at EAPS MIT
+        date: 2022-24
+        issuer: MIT
+        icon: fa-solid fa-envelope
+
+      - name: Letters to a Prescientist, Pen Pal program with K12 Students
+        date: 2022
+        issuer: MIT
+        icon: fa-solid fa-envelope
+
+      - name: Field Trip on the Geology of the White Mountains for DEAPS: Freshman Orientation
+        date: 2022
+        issuer: MIT
+        icon: fa-solid fa-envelope
+
+      - name: Boston826: Hydraulic Fracturing Demonstration and Interview with Local K12 Students
+        date: 2021
+        issuer: MIT
+        icon: fa-solid fa-envelope
+
+      - name: Field Trip on the Geology of Yellowstone for DEAPS: Freshman Orientation
+        date: 2020
+        issuer: MIT
+        icon: fa-solid fa-envelope
+
+    Service:
+      - name: Founder and Lead Organizer of LGBTQ+ Working Group
+        date: 2024-2026
+        issuer: Yale University
+        icon: fa-solid fa-location-dot
+
+      - name: WEPSY (Women and nonbinary people in EPS) Organizing Committee
+        date: 2024-26
+        issuer: Yale University
+        icon: fa-solid fa-tag
+
+      - name: Member of EPS Department IDEA Committee
+        date: 2024-26
+        issuer: Yale University
+        icon: fa-solid fa-envelope
+
+    Field Experience:
+      - name: Nahant and Salem, MA: 3 Days
+        date: Spring 2026
+        issuer: Yale University
+        icon: fa-solid fa-location-dot
+
+      - name: Northeast Intercollegiate Geologic Conference (NEIGC, CT) Field Trip Leader: 3 Days
+        date: Fall 2025
+        issuer: Yale University
+        icon: fa-solid fa-location-dot
+
+      - name: Connecticut, Massachusetts, and New Hampshire: 6 Weeks
+        date: Fall 2024
+        issuer: Yale University
+        icon: fa-solid fa-location-dot
+
+      - name: Sicily, Italy (MIT Dept Field Trip): 1 week
+        date: 2023
+        issuer: MIT
+        icon: fa-solid fa-tag
+
+      - name: Connecticut, Massachusetts, New Hampshire: 4 weeks
+        date: Summer 2022
+        issuer: MIT
+        icon: fa-solid fa-tag
+
+      - name: Mojave Desert (MIT Field Camp): 2 Weeks
+        date: Jan. 2022
+        issuer: MIT
+        icon: fa-solid fa-tag
+
+      - name: Vermont and New Hampshire: 1 Week
+        date: Dec. 2021
+        issuer: MIT
+        icon: fa-solid fa-tag
+
+      - name: Newfoundland, Canada: 2 Weeks
+        date: Nov. 2021
+        issuer: MIT
+        icon: fa-solid fa-tag
+
+      - name: New Hampshire: 1 Week
+        date: Jun. 2021
+        issuer: MIT
+        icon: fa-solid fa-tag
+
+      - name: New Hampshire: 4 Weeks
+        date: Jun. 2020
+        issuer: MIT
+        icon: fa-solid fa-tag
+
+      - name: Mojave Desert (MIT Field Camp): 2 Week
+        date: Jan. 2019
+        issuer: MIT
+        icon: fa-solid fa-tag
+      
+      - name: Sardinia, Italy (Undergraduate Field Camp): 4 Weeks
+        date: Jun 2018
+        issuer: Boise State University
+        icon: fa-solid fa-envelope
+
+      - name: Utah (Undergraduate Field Methods): 1 Week
+        date: Mar. 2018
+        issuer: Purdue University
+        icon: fa-solid fa-envelope
 
     References:
-      - name: Professor John Doe
+      - name: Professor Oliver Jagoutz
         icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
+        reference: Professor of Geology at MIT, Ph.D. Supervisor
+      - name: Professor Jay Ague
         icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: Professor of Geology at Yale University, Postdoctoral Mentor
+      - name: Professor Leigh Royden
+        icon: fa-solid fa-thumbtack
+        reference: Professor of Geophysics at MIT, Ph.D. Collaborator and Committee Member
