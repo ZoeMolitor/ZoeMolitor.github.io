@@ -1,13 +1,13 @@
 cv:
   name: Zoe Molitor
-  label: Structural Petrologist
+  label: Geologist
   email: zoe.molitor@bc.edu
   location: Chestnut Hill, MA
   image: ""
-  summary: Postdoctoral Fellow working on Appalachian leucogranites at Boston College with Professor Juliet Ryan-Davis.
+  summary: Postdoctoral Fellow working on Appalachian leucogranites at Boston College with Professor Juliet Ryan-Davis
 
   address:
-    street: 57 Broadlawn Park, Apt 11B
+    street: 57 Broadlawn Park Apt 11B
     city: Chestnut Hill
     region: Massachusetts
     postalCode: MA 02467
@@ -63,16 +63,16 @@ cv:
 
     Mentoring:
       - name: Brynn Graham, Visiting Undergraduate Researcher from Mt. Holyoke
-        summary: "While at Yale, I supervised Brynn on field work, thin section petrography, and petrologic modelling work."
+        summary: "While at Yale, I supervised Brynn on field work, thin section petrography, and petrologic modelling work"
 
     Outreach:
-      - name: Adjunct Professor-Structural Geology, EESC 3385
+      - name: Adjunct Professor, Structural Geology, EESC 3385
         date: Fall 2026
         issuer: Boston College
         icon: fa-solid fa-location-dot
 
-      - name: Graduate TA-Geophysics, 12.002
-        date: 2021-22
+      - name: Graduate TA-Geophysics, 12002
+        date: 2021 and 2022
         issuer: MIT
         icon: fa-solid fa-tag
 
@@ -97,7 +97,7 @@ cv:
         icon: fa-solid fa-envelope
 
       - name: Administrative Member of LINK12, K12 Outreach Program at EAPS MIT
-        date: 2022-24
+        date: 2022 to 2024
         issuer: MIT
         icon: fa-solid fa-envelope
 
@@ -122,13 +122,13 @@ cv:
         icon: fa-solid fa-envelope
 
     Service:
-      - name: Founder and Lead Organizer of LGBTQ+ Working Group
+      - name: Founder and Lead Organizer of LGBTQ Working Group
         date: 2024-2026
         issuer: Yale University
         icon: fa-solid fa-location-dot
 
       - name: WEPSY (Women and nonbinary people in EPS) Organizing Committee
-        date: 2024-26
+        date: 2024 to 2026
         issuer: Yale University
         icon: fa-solid fa-tag
 
@@ -164,42 +164,42 @@ cv:
         icon: fa-solid fa-tag
 
       - name: Mojave Desert (MIT Field Camp), 2 Weeks
-        date: Jan. 2022
+        date: 2022
         issuer: MIT
         icon: fa-solid fa-tag
 
       - name: Vermont and New Hampshire, 1 Week
-        date: Dec. 2021
+        date: 2021
         issuer: MIT
         icon: fa-solid fa-tag
 
       - name: Newfoundland, Canada, 2 Weeks
-        date: Nov. 2021
+        date: 2021
         issuer: MIT
         icon: fa-solid fa-tag
 
       - name: New Hampshire, 1 Week
-        date: Jun. 2021
+        date: 2021
         issuer: MIT
         icon: fa-solid fa-tag
 
       - name: New Hampshire, 4 Weeks
-        date: Jun. 2020
+        date: 2020
         issuer: MIT
         icon: fa-solid fa-tag
 
       - name: Mojave Desert (MIT Field Camp), 2 Week
-        date: Jan. 2019
+        date: 2019
         issuer: MIT
         icon: fa-solid fa-tag
       
       - name: Sardinia, Italy (Undergraduate Field Camp), 4 Weeks
-        date: Jun 2018
+        date: 2018
         issuer: Boise State University
         icon: fa-solid fa-envelope
 
       - name: Utah (Undergraduate Field Methods), 1 Week
-        date: Mar. 2018
+        date: 2018
         issuer: Purdue University
         icon: fa-solid fa-envelope
 
