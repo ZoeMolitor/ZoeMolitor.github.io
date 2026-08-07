@@ -56,7 +56,3 @@ jobs:
           git add -A
           git commit -m "chore: render the latest CV"
           git push
-      - name: Locate CV template
-        run: |
-          bundle show al_folio_cv
-          find "$(bundle show al_folio_cv)" -iname "*cv*"
