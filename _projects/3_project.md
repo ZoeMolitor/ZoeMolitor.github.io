@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Appalachian Leucogranites
+description: While early and middle Devonian granites are well studied in New England. Syn- to late-collisional leucogranites, the namesake of New Hampshire ("The Granite State"), are poorly characterized and have profound implications for crustal thermal architecture and tectonic models of late Devonian and early Carboniferous Appalachian orogenesis.
+img: assets/img/appleucogranite.jpg
 redirect: https://www.wikipedia.org/
 importance: 3
 category: work
