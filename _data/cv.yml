@@ -106,17 +106,17 @@ cv:
         issuer: MIT
         icon: fa-solid fa-envelope
 
-      - name: Field Trip on the Geology of the White Mountains for DEAPS: Freshman Orientation
+      - name: Field Trip on the Geology of the White Mountains for DEAPS, Freshman Orientation
         date: 2022
         issuer: MIT
         icon: fa-solid fa-envelope
 
-      - name: Boston826: Hydraulic Fracturing Demonstration and Interview with Local K12 Students
+      - name: Boston826, Hydraulic Fracturing Demonstration and Interview with Local K12 Students
         date: 2021
         issuer: MIT
         icon: fa-solid fa-envelope
 
-      - name: Field Trip on the Geology of Yellowstone for DEAPS: Freshman Orientation
+      - name: Field Trip on the Geology of Yellowstone for DEAPS, Freshman Orientation
         date: 2020
         issuer: MIT
         icon: fa-solid fa-envelope
@@ -138,67 +138,67 @@ cv:
         icon: fa-solid fa-envelope
 
     Field Experience:
-      - name: Nahant and Salem, MA: 3 Days
+      - name: Nahant and Salem, MA, 3 Days
         date: Spring 2026
         issuer: Yale University
         icon: fa-solid fa-location-dot
 
-      - name: Northeast Intercollegiate Geologic Conference (NEIGC, CT) Field Trip Leader: 3 Days
+      - name: Northeast Intercollegiate Geologic Conference (NEIGC, CT) Field Trip Leader, 3 Days
         date: Fall 2025
         issuer: Yale University
         icon: fa-solid fa-location-dot
 
-      - name: Connecticut, Massachusetts, and New Hampshire: 6 Weeks
+      - name: Connecticut, Massachusetts, and New Hampshire, 6 Weeks
         date: Fall 2024
         issuer: Yale University
         icon: fa-solid fa-location-dot
 
-      - name: Sicily, Italy (MIT Dept Field Trip): 1 week
+      - name: Sicily, Italy (MIT Dept Field Trip), 1 week
         date: 2023
         issuer: MIT
         icon: fa-solid fa-tag
 
-      - name: Connecticut, Massachusetts, New Hampshire: 4 weeks
+      - name: Connecticut, Massachusetts, New Hampshire, 4 weeks
         date: Summer 2022
         issuer: MIT
         icon: fa-solid fa-tag
 
-      - name: Mojave Desert (MIT Field Camp): 2 Weeks
+      - name: Mojave Desert (MIT Field Camp), 2 Weeks
         date: Jan. 2022
         issuer: MIT
         icon: fa-solid fa-tag
 
-      - name: Vermont and New Hampshire: 1 Week
+      - name: Vermont and New Hampshire, 1 Week
         date: Dec. 2021
         issuer: MIT
         icon: fa-solid fa-tag
 
-      - name: Newfoundland, Canada: 2 Weeks
+      - name: Newfoundland, Canada, 2 Weeks
         date: Nov. 2021
         issuer: MIT
         icon: fa-solid fa-tag
 
-      - name: New Hampshire: 1 Week
+      - name: New Hampshire, 1 Week
         date: Jun. 2021
         issuer: MIT
         icon: fa-solid fa-tag
 
-      - name: New Hampshire: 4 Weeks
+      - name: New Hampshire, 4 Weeks
         date: Jun. 2020
         issuer: MIT
         icon: fa-solid fa-tag
 
-      - name: Mojave Desert (MIT Field Camp): 2 Week
+      - name: Mojave Desert (MIT Field Camp), 2 Week
         date: Jan. 2019
         issuer: MIT
         icon: fa-solid fa-tag
       
-      - name: Sardinia, Italy (Undergraduate Field Camp): 4 Weeks
+      - name: Sardinia, Italy (Undergraduate Field Camp), 4 Weeks
         date: Jun 2018
         issuer: Boise State University
         icon: fa-solid fa-envelope
 
-      - name: Utah (Undergraduate Field Methods): 1 Week
+      - name: Utah (Undergraduate Field Methods), 1 Week
         date: Mar. 2018
         issuer: Purdue University
         icon: fa-solid fa-envelope
