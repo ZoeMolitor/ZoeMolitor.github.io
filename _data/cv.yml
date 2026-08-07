@@ -1,215 +1,257 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.4/schema.json
 cv:
-  name: Zoe Molitor
-  label: Geologist
+  name: "Dr. Zoe Molitor (she/they)"
+  location: "57 Broadlawn Park Unit 11B, Chestnut Hill, MA 02467"
   email: zoe.molitor@bc.edu
-  location: Chestnut Hill, MA
-  image: ""
-  summary: Postdoctoral Fellow working on Appalachian leucogranites at Boston College with Professor Juliet Ryan-Davis
-
-  address:
-    street: 57 Broadlawn Park Apt 11B
-    city: Chestnut Hill
-    region: Massachusetts
-    postalCode: MA 02467
-    countryCode: US
+  phone: "+14196703587"
 
   sections:
-    Education:
-      - institution: Massachusetts Institute of Technology
-        location: Boston, Massachusetts
-        url: 
-        area: Geology
-        studyType: PhD
-        start_date: 2018
-        end_date: 2024
-        score: ""
-        courses: ""
-        highlights:
-          - Structure and Behavior of Plate Boundary Regions Through the Wilson Cycle
 
-      - institution: Purdue University
-        location: West Lafayette, Indiana
-        area: Geology and Geophysics
-        studyType: Bachelor of Science
-        start_date: 2015
-        end_date: 2018
-        highlights:
+    appointments:
+      - company: "Boston College — Earth and Environmental Sciences"
+        position: "Postdoctoral Researcher"
+        start_date: "2026"
+        end_date: present
+        location: "Chestnut Hill, MA"
+      - company: "Yale University — Earth and Planetary Sciences (EPS)"
+        position: "NSF EAR Postdoctoral Fellow"
+        start_date: "2024"
+        end_date: "2026"
+        location: "New Haven, CT"
 
-    Experience:
-      - company: Boston College
-        position: Postdoctoral Researcher
-        location: Chestnut Hill, MA
-        start_date: 2026
-        end_date: 
-        summary: Working on Appalachian leucogranite chemistry and petrogenesis with implications for tectonic models of orogenic development and collapse.
-        highlights:
-          - Igneous Petrology
-          - Geochemistry
+    education:
+      - institution: "MIT — Earth, Atmospheric and Planetary Sciences (EAPS)"
+        area: "Geology"
+        degree: PhD
+        start_date: "2018"
+        end_date: "2024"
+        location: "Cambridge, MA"
+      - institution: "Purdue University"
+        area: "Geology and Geophysics"
+        degree: BS
+        start_date: "2015"
+        end_date: "2018"
+        location: "West Lafayette, IN"
 
-      - company: Yale University
-        position: NSF EAR Postdoctoral Fellow
-        location: New Haven, CT
-        start_date: 2024
-        end_date: 2026
-        highlights:
-          - Metamorphic Petrology
-          - Structural Geology
+    publications:
+      - title: "Extreme Moho Relief Preserved in Ohio's Crust"
+        authors:
+          - "**Z. Molitor**"
+          - "F. Link"
+          - "M. Long"
+          - "J. Ague"
+        journal: "GSA Today, 36, 4–9"
+        date: "2026"
+      - title: "A whole-rock geochemistry-based semi-quantitative proxy for magmatic oxygen fugacity"
+        authors:
+          - "Z. Liu"
+          - "O. Jagoutz"
+          - "H. Rezeau"
+          - "H. L. L. Zhang"
+          - "B. Klein"
+          - "**Z. Molitor**"
+          - "et al."
+          - "D. C. Zhu"
+        journal: "Earth and Planetary Science Letters, 673, 119742"
+        date: "2026"
+      - title: "Bedrock Geology of NE Connecticut: A Transect from the Bronson Hill Anticlinorium to Putnam-Nashoba Terrane"
+        authors:
+          - "**Z. Molitor**"
+          - "J. Ague"
+          - "B. Graham"
+        journal: "In A.D. Rooney & M.D. Long (Eds.), Guidebook for Field Trips in Southwestern Connecticut (Trip D, pp. 86–112), Geology Documents"
+        url: https://digitalmaine.com/geo_docs/204/
+        date: "2025"
+      - title: "Permo-Carboniferous crustal structure and state of strain in the New England Appalachians, USA"
+        authors:
+          - "**Z. Molitor**"
+          - "O. Jagoutz"
+          - "A. Moser"
+          - "A. Cruz-Uribe"
+          - "A. Cross"
+        journal: "Geosphere, 21(6), 991–1019"
+        date: "2025"
+      - title: "Crustal section in the New England Appalachians records polybaric fractional crystallization-driven magma differentiation"
+        authors:
+          - "Z. Liu"
+          - "O. Jagoutz"
+          - "**Z. Molitor**"
+          - "J. Ramezani"
+          - "D. C. Zhu"
+        journal: "Earth and Planetary Science Letters, 671, 119647"
+        date: "2025"
+      - title: "The viscosity of a partially molten layer in a paleo-orogenic plateau"
+        authors:
+          - "**Z. Molitor**"
+          - "T. Mittal"
+          - "O. Jagoutz"
+        journal: "Earth and Planetary Science Letters, 648, 119060"
+        date: "2024"
+      - title: "ReversePetrogen: A Multiphase Dry Reverse Fractional Crystallization-Mantle Melting Thermobarometer Applied to 13,589 Mid-Ocean Ridge Basalt Glasses"
+        authors:
+          - "S. Brown Krein"
+          - "**Z. Molitor**"
+          - "T. L. Grove"
+        journal: "Journal of Geophysical Research: Solid Earth, 126(8), e2020JB021292"
+        date: "2021"
+      - title: "Testing models of orogenic conjugate shear in the New England Appalachians"
+        authors:
+          - "**Z. Molitor**"
+          - "O. Jagoutz"
+          - "A. Cross"
+          - "A. Moser"
+        journal: "In preparation"
 
-    Skills:
-      - name: Geology
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Structural Geology/Structural Analysis, Igneous and Metamorphic Petrology/Petrologic Modelling, Geochronology, EPMA, EBSD"
+    invited_talks:
+      - name: "Extreme Moho Relief Beneath the State of Ohio"
+        location: "Lahmont-Doherty Earth Observatory, Geodynamics Seminar"
+        date: "Nov 2025"
 
-    Mentoring:
-      - name: Brynn Graham, Visiting Undergraduate Researcher from Mt. Holyoke
-        summary: "While at Yale, I supervised Brynn on field work, thin section petrography, and petrologic modelling work"
+    conference_abstracts:
+      - title: "Spatio-Temporal Controls on Orogenic Thermal Structure and Evolution in the Southern New England Appalachians"
+        authors:
+          - "**Z. Molitor**"
+          - "J. Ague"
+          - "B. Graham"
+          - "J. Eckert"
+          - "A. Cruz-Uribe"
+        journal: "Abstract 29-5, 2026 Northeast GSA"
+        date: "22–23 Mar 2026"
+      - title: "Assessing the Impact of High Temperature Metamorphism and Partial Melting on the Viscosity of the Tatnic Hill Formation"
+        authors:
+          - "B. Graham"
+          - "**Z. Molitor**"
+          - "J. Ague"
+        journal: "Abstract 284-7, 2025 GSA Connects"
+        date: "19–22 Oct 2025"
+      - title: "Spatio-Temporal Controls on Orogenic Thermal Structure and Evolution in the Southern New England Appalachians"
+        authors:
+          - "**Z. Molitor**"
+          - "J. Ague"
+          - "B. Graham"
+          - "J. Eckert"
+        journal: "Abstract 284-7, 2025 GSA Connects"
+        date: "19–22 Oct 2025"
+      - title: "Constraining the 3D Geometry of Conjugate Orogenic Strike-Slip Shear Zones in the New England Appalachians"
+        authors:
+          - "**Z. Molitor**"
+          - "O. Jagoutz"
+          - "A. Cross"
+          - "A. Cruz-Uribe"
+          - "A. Moser"
+        journal: "Abstract 20-6, 2024 Northeast GSA"
+        date: "17–19 Mar 2024"
+      - title: "Testing Models of Conjugate Faulting in the Late Paleozoic New England Appalachian Orogen"
+        authors:
+          - "**Z. Molitor**"
+          - "L. Royden"
+          - "O. Jagoutz"
+        journal: "Abstract T55B-0068, 2022 AGU Fall Meeting"
+        date: "12–16 Dec 2022"
+      - title: "A New Model for Dynamic and Thermal Compensation around Mantle Plumes: Implications for Volume and Heat Flux"
+        authors:
+          - "**Z. Molitor**"
+          - "L. Royden"
+          - "O. Jagoutz"
+        journal: "Abstract DI25B-0027, 2021 AGU Fall Meeting"
+        date: "13–17 Dec 2021"
+      - title: "Mantle Plume – Spreading Ridge Interaction: A Comparative Study of the Red Sea and Reykjanes Ridges"
+        authors:
+          - "**Z. Molitor**"
+          - "O. Jagoutz"
+          - "L. Royden"
+          - "S. Brown"
+          - "G. Port"
+          - "A. Dogru"
+          - "J. Keller"
+        journal: "Abstract EGU2020-11138, 2020 EGU General Assembly"
+        date: "4–8 May 2020"
 
-    Outreach:
-      - name: Adjunct Professor, Structural Geology, EESC 3385
-        date: Fall 2026
-        issuer: Boston College
-        icon: fa-solid fa-location-dot
+    teaching_experience_and_outreach:
+      - name: "Adjunct Professor — Structural Geology, EESC 3385"
+        location: "Boston College"
+        date: "Fall 2026"
+      - name: "Graduate Teaching Assistant, 12.002"
+        location: "MIT"
+        date: "Spring 2021 & Spring 2022"
+      - name: "Undergraduate Teaching Assistant, EAPS 12000"
+        location: "Purdue University"
+        date: "2017"
+      - name: "Lead Organizer, Earth Science Week-Long Workshop — Pathways Summer Scholars"
+        date: "2026"
+      - name: "Co-Organizer, Earth Science Week-Long Workshop — Pathways Summer Scholars High School Program"
+        location: "Yale University"
+        date: "2025"
+      - name: "Group Leader, Chemistry Rotation During West Campus Science Festival"
+        location: "Yale University"
+        date: "2024"
+      - name: "Administrative Member, LINK12 K–12 Outreach Program"
+        location: "EAPS, MIT"
+        start_date: "2022"
+        end_date: "2024"
+      - name: "Letters to a PreScientist — Pen Pal Program with K–12 Students"
+        date: "2022"
+      - name: "Field Trip on the Geology of the White Mountains, DEAPS Freshman Orientation"
+        date: "2022"
+      - name: "Boston826: Hydraulic Fracturing Demonstration and Interview with Local K–12 Students"
+        date: "2021"
+      - name: "Field Trip on the Geology of Yellowstone, DEAPS Freshman Orientation"
+        date: "2020"
 
-      - name: Graduate TA-Geophysics, 12002
-        date: 2021 and 2022
-        issuer: MIT
-        icon: fa-solid fa-tag
+    service:
+      - name: "Founder and Lead Organizer, LGBTQ+ Working Group"
+        location: "Yale University"
+        start_date: "2024"
+        end_date: "2026"
+      - name: "WEPSY (Women and Nonbinary People in EPS) Organizing Committee"
+        location: "Yale University"
+        start_date: "2024"
+        end_date: "2026"
+      - name: "Member, EPS Department IDEA Committee"
+        location: "Yale University"
+        start_date: "2024"
+        end_date: "2026"
 
-      - name: Undergraduate Teaching Assistant-Introduction to Geography, EAPS 12000
-        date: 2017
-        issuer: Purdue University
-        icon: fa-solid fa-envelope
+    mentoring:
+      - name: "Brynn Graham (Undergraduate, Mt. Holyoke College), SURF Program"
+        location: "Yale University"
+        date: "Summer 2025 – Spring 2026"
 
-      - name: Lead Organizer of "Journey to the Center of the Earth" Workshop, Pathways to Science
-        date: Summer 2026
-        issuer: Yale University
-        icon: fa-solid fa-envelope
+    field_experience:
+      - label: "Spring 2026"
+        details: "Nahant and Salem, MA — 3 Days"
+      - label: "Fall 2025"
+        details: "NEIGC, Connecticut — Field Trip Leader"
+      - label: "Fall 2024"
+        details: "Connecticut, Massachusetts, and New Hampshire — 6 Weeks"
+      - label: "Jun 2023"
+        details: "Sicily, Italy (MIT Department Field Trip) — 1 Week"
+      - label: "Summer 2022"
+        details: "New England Appalachians (NH, MA, CT) — 4 Weeks"
+      - label: "Jan 2022"
+        details: "Mojave Desert (MIT Field Camp) — 2 Weeks"
+      - label: "Dec 2021"
+        details: "Vermont and New Hampshire — 1 Week"
+      - label: "Nov 2021"
+        details: "Newfoundland, Canada — 2 Weeks"
+      - label: "Jun 2021"
+        details: "New Hampshire — 1 Week"
+      - label: "Fall 2020"
+        details: "New Hampshire — 4 Weeks"
+      - label: "Jan 2019"
+        details: "Mojave Desert (MIT Field Camp) — 2 Weeks"
+      - label: "Jun 2018"
+        details: "Sardinia, Italy (Undergraduate Field Camp) — 4 Weeks"
+      - label: "Mar 2018"
+        details: "Utah (Undergraduate Field Methods) — 1 Week"
 
-      - name: Co-Organizer of "Journey to the Center of the Earth" Workshop, Pathways to Science
-        date: Summer 2025
-        issuer: Yale University
-        icon: fa-solid fa-envelope
+    technical_skills:
+      - label: "Programming Languages"
+        details: "Python, MATLAB (MTEX)"
+      - label: "Computer Programs"
+        details: "ArcGIS, Adobe Illustrator, Inkscape, Perple_X, TheriakDomino, Microsoft Office Suite"
+      - label: "Laboratory Analysis"
+        details: "SEM/EPMA (Electron Probe Microanalyzer), SEM/EBSD (Electron Backscatter Diffraction), Heavy Mineral Separation, LA-ICP-MS"
 
-      - name: Group Leader-Chemistry Rotation, West Campus Science Festival, Pathways to Science
-        date: Fall 2024
-        issuer: Yale University
-        icon: fa-solid fa-envelope
-
-      - name: Administrative Member of LINK12, K12 Outreach Program at EAPS MIT
-        date: 2022 to 2024
-        issuer: MIT
-        icon: fa-solid fa-envelope
-
-      - name: Letters to a Prescientist, Pen Pal program with K12 Students
-        date: 2022
-        issuer: MIT
-        icon: fa-solid fa-envelope
-
-      - name: Field Trip on the Geology of the White Mountains for DEAPS, Freshman Orientation
-        date: 2022
-        issuer: MIT
-        icon: fa-solid fa-envelope
-
-      - name: Boston826, Hydraulic Fracturing Demonstration and Interview with Local K12 Students
-        date: 2021
-        issuer: MIT
-        icon: fa-solid fa-envelope
-
-      - name: Field Trip on the Geology of Yellowstone for DEAPS, Freshman Orientation
-        date: 2020
-        issuer: MIT
-        icon: fa-solid fa-envelope
-
-    Service:
-      - name: Founder and Lead Organizer of LGBTQ Working Group
-        date: 2024-2026
-        issuer: Yale University
-        icon: fa-solid fa-location-dot
-
-      - name: WEPSY (Women and nonbinary people in EPS) Organizing Committee
-        date: 2024 to 2026
-        issuer: Yale University
-        icon: fa-solid fa-tag
-
-      - name: Member of EPS Department IDEA Committee
-        date: 2024-26
-        issuer: Yale University
-        icon: fa-solid fa-envelope
-
-    Field Experience:
-      - name: Nahant and Salem, MA, 3 Days
-        date: Spring 2026
-        issuer: Yale University
-        icon: fa-solid fa-location-dot
-
-      - name: Northeast Intercollegiate Geologic Conference (NEIGC, CT) Field Trip Leader, 3 Days
-        date: Fall 2025
-        issuer: Yale University
-        icon: fa-solid fa-location-dot
-
-      - name: Connecticut, Massachusetts, and New Hampshire, 6 Weeks
-        date: Fall 2024
-        issuer: Yale University
-        icon: fa-solid fa-location-dot
-
-      - name: Sicily, Italy (MIT Dept Field Trip), 1 week
-        date: 2023
-        issuer: MIT
-        icon: fa-solid fa-tag
-
-      - name: Connecticut, Massachusetts, New Hampshire, 4 weeks
-        date: Summer 2022
-        issuer: MIT
-        icon: fa-solid fa-tag
-
-      - name: Mojave Desert (MIT Field Camp), 2 Weeks
-        date: 2022
-        issuer: MIT
-        icon: fa-solid fa-tag
-
-      - name: Vermont and New Hampshire, 1 Week
-        date: 2021
-        issuer: MIT
-        icon: fa-solid fa-tag
-
-      - name: Newfoundland, Canada, 2 Weeks
-        date: 2021
-        issuer: MIT
-        icon: fa-solid fa-tag
-
-      - name: New Hampshire, 1 Week
-        date: 2021
-        issuer: MIT
-        icon: fa-solid fa-tag
-
-      - name: New Hampshire, 4 Weeks
-        date: 2020
-        issuer: MIT
-        icon: fa-solid fa-tag
-
-      - name: Mojave Desert (MIT Field Camp), 2 Week
-        date: 2019
-        issuer: MIT
-        icon: fa-solid fa-tag
-      
-      - name: Sardinia, Italy (Undergraduate Field Camp), 4 Weeks
-        date: 2018
-        issuer: Boise State University
-        icon: fa-solid fa-envelope
-
-      - name: Utah (Undergraduate Field Methods), 1 Week
-        date: 2018
-        issuer: Purdue University
-        icon: fa-solid fa-envelope
-
-    References:
-      - name: Professor Oliver Jagoutz
-        icon: fa-solid fa-laptop
-        reference: Professor of Geology at MIT, Ph.D. Supervisor
-      - name: Professor Jay Ague
-        icon: fa-solid fa-thumbtack
-        reference: Professor of Geology at Yale University, Postdoctoral Mentor
-      - name: Professor Leigh Royden
-        icon: fa-solid fa-thumbtack
-        reference: Professor of Geophysics at MIT, Ph.D. Collaborator and Committee Member
+design:
+  theme: classic
