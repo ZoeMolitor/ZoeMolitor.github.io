@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Appalachian Inverted Metamorphism
+description: We identified a new inverted metamorphic gradient in eastern Connecticut that shares many of the same properties as the Himalayan inverted gradient. We test tectonic models of inverted metamorphism with new geochronology, garnet diffusion modelling, and structural analysis.
+img: assets/img/hebronfootwall.jpg
 importance: 2
 category: work
 giscus_comments: true
